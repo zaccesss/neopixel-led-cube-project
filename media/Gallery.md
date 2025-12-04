@@ -1,4 +1,4 @@
-## 📸 Project Image Gallery
+##  Project Image Gallery
 
 ### 🔧 Build Process
 
