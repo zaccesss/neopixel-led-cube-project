@@ -1,6 +1,43 @@
-# NeoPixel LED Cube Project
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=NeoPixel%20LED%20Cube%20Project&fontSize=34&fontAlignY=32&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-**Adaptive LED Cube System with Sensor Driven Brightness and Multi Pattern Rendering**
+# Project Contact & Links
+<p align="center">
+  <a href="https://linktr.ee/zaccess">
+    <img src="https://img.shields.io/badge/Linktree-zaccess-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/isaacadjei">
+    <img src="https://img.shields.io/badge/LinkedIn-Isaac_Adjei-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:offices.isaac@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-ff6f61?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+</p>
+
+
+# Quick Navigation
+<p align="center">
+  🔎 <b>Quick Navigation</b> •  
+  <a href="#1-project-overview">Overview</a> •
+  <a href="#2-key-features">Features</a> •
+  <a href="#3-hardware-components">Hardware</a> •
+  <a href="#4-software-architecture">Software</a> •
+  <a href="#5-build-documentation">Build</a> •
+  <a href="#6-user-operation">Usage</a> •
+  <a href="#7-technical-specifications">Specs</a> •
+  <a href="#8-serial-monitor-output">Serial output</a> •
+  <a href="#9-demonstration-media">Media</a> •
+  <a href="#10-future-enhancements">Future</a> •
+  <a href="#11-license-credits-and-attribution">License and credits</a> •
+  <a href="#12-repository-structure">Repo structure</a> •
+  <a href="#contact-and-support">Contact</a> •
+  <a href="#faq">FAQ</a>
+</p>
 
 ---
 
@@ -223,7 +260,7 @@ Potential improvements and expansions for future development:
 
 ---
 
-## 11. License and Attribution
+## 11. License, Credits and Attribution
 
 ### 11.1 License
 
@@ -250,16 +287,103 @@ This project was developed as part of an academic engineering assignment. While 
 **Project Repository:**   
 **Dependencies:** Adafruit NeoPixel Library
 
+### 11.3 Credits
+
+This project was designed and developed by **Isaac “Zac” Adjei** & **Neopixel Innovators** 
+
 ---
 
+## 12. Repository Structure
 
+The project is organised into separate folders for software, hardware, documentation and media so it is easy to navigate and reuse parts of the work.
+
+-  **docs/** – [Documentation folder](docs/) – reports, portfolios, planning files and final presentation  
+- **hardware/** – [Hardware resources](hardware/) – hardware overview slides and build notes  
+- **media/** – [Images and videos](media/) – photos and videos used in reports and the README  
+- **software/** – [Arduino code and software docs](software/) – Arduino firmware and supporting documentation
+
+
+<details>
+<summary><b>Click to expand full directory tree</b></summary>
+
+```text
+neopixel-led-cube/
+│
+├── .gitignore
+├── LICENSE.md
+├── README.md
+│
+├── docs/
+│   ├── README.md
+│   ├── code-screenshot-1.png
+│   ├── code-screenshot-2.png
+│   ├── finance-report.xlsx
+│   ├── gantt-chart.xlsx
+│   ├── market-analysis.docx
+│   ├── neopixel-demo.mp4
+│   ├── neopixel-description.mp4
+│   ├── notes-and-drafts.docx
+│   ├── presentation-final.pptx
+│   ├── software-portfolio.docx
+│   └── software-portfolio-v2.docx
+│
+├── hardware/
+│   ├── README.md
+│   └── hardware-overview.pptx
+│
+├── media/
+│   ├── README.md
+│   ├── code-screenshot-1.png
+│   ├── code-screenshot-2.png
+│   ├── cube-build-layer-top-view-1.jpeg
+│   ├── cube-build-layer-top-view-2.jpeg
+│   ├── cube-build-top-view-1.jpeg
+│   ├── cube-enclosure-final-setup-1.jpeg
+│   ├── cube-frame-complete-angle-1.jpeg
+│   ├── cube-lit-full-bright-front-1.jpeg
+│   ├── cube-lit-full-bright-front-2.jpeg
+│   ├── enclosure-arduino-breadboard-top-1.jpeg
+│   ├── enclosure-arduino-breadboard-top-2.jpeg
+│   ├── neopixel-demo.mp4
+│   ├── neopixel-description.mp4
+│   ├── power-circuit-capacitor-closeup-1.jpeg
+│   └── power-circuit-connected-to-cube-1.jpeg
+│
+└── software/
+    ├── README.md
+    ├── software-portfolio.docx
+    ├── software-portfolio-v2.docx
+    └── neopixel-cube/
+        ├── README.md
+        └── neopixel-cube.ino
+```
+
+</details>
 
 ---
 
 ## Contact and Support
+
 For questions, suggestions or collaboration opportunities related to this project, please open an issue in the repository or contact the development team through the provided channels.
 
-You can reach Zac at: **offices.isaac@gmail.com** or on my **github profile.**
+You can reach Zac at: **offices.isaac@gmail.com** or via my **GitHub profile**.
 
 **Project Status:** Completed  
 **Last Updated:** December 2025
+
+---
+
+## FAQ
+
+### Can I use this project for my coursework?
+Yes, but attribution is required under the Academic Use Notice.
+
+### Can I add more LED patterns?
+Absolutely. The software is modular – add another case to the mode switch.
+
+### Can I adapt this for a 5×5×5 cube?
+Yes. Update NUM_LEDS and adjust wiring accordingly.
+
+---
+
+
