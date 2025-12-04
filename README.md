@@ -22,7 +22,7 @@
 
 # Quick Navigation
 <p align="center">
-  🔎 <b>Quick Navigation</b> •  
+  🔎 •  
   <a href="#1-project-overview">Overview</a> •
   <a href="#2-key-features">Features</a> •
   <a href="#3-hardware-components">Hardware</a> •
