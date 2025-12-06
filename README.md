@@ -376,7 +376,7 @@ You can reach Zac at: **offices.isaac@gmail.com** or via my **GitHub profile**.
 ## FAQ
 
 ### Can I use this project for my coursework?
-Yes, but attribution is required under the Academic Use Notice.
+Yes, but attribution is required under the License & Academic Use Notice.
 
 ### Can I add more LED patterns?
 Absolutely. The software is modular – add another case to the mode switch.
