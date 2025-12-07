@@ -92,8 +92,8 @@ The project demonstrates practical applications of digital input handling, analo
 | D4 | Buzzer | Digital output |
 | D6 | NeoPixel Data | Data output to LED strip |
 | A0 | LDR Sensor | Analog input (0-1023) |
-| 5V | Power Rail | Positive supply |
-| GND | Ground | Common ground |
+| 5V | Power Rail | Positive supply (+) |
+| GND | Ground | Common ground (-) |
 
 ### 3.3 Circuit Design
 
