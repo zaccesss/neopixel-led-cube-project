@@ -6,7 +6,7 @@
   <tr>
     <td width="45%">
       <b>Cube Layer Assembly – Top View</b><br>
-      Early stage of the cube build showing precise LED spacing and alignment during layer soldering.
+      Early stage of the cube build showing precise LED spacing and alignment during layer soldering
     </td>
     <td>
       <img src="cube-build-layer-top-view-1.jpeg" width="100%">
