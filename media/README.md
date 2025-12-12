@@ -70,6 +70,6 @@ This directory contains all visual and video media assets for the NeoPixel LED C
 
 ### Naming Convention
 
-Media files follow a consistent naming pattern:
+Media files follow a consistent naming pattern like:
 ```
 [subject]-[descriptor]-[view/type]-[number].[extension]
